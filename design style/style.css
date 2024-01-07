@@ -1,0 +1,31 @@
+/*Font Style*/
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.first-section {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(3, 0, 10, 0) 100%), url(./Image/Banner\ Image.png);
+    border-radius: 16px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+    margin: auto
+}
+
+.banner-title1 {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 120px;
+}
+
+.banner-title2 {
+    color: #FFF;
+    font-size: 55px;
+    width: 630px;
+    text-align: center;
+    padding-left: 340px;
+}
