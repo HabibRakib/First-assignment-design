@@ -1,6 +1,7 @@
 /*Font Style*/
 body {
     font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 .first-section {
@@ -28,4 +29,35 @@ body {
     width: 630px;
     text-align: center;
     padding-left: 340px;
+}
+
+/*2nd Section*/
+
+.section-2-title1 {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.section-2-title2 {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.section-2-title3 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.second-section-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 500px;
 }
