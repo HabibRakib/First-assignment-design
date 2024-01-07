@@ -107,14 +107,17 @@ body {
     width: 1320px;
     height: 482px;
 }
-.section-4{
+
+.section-4 {
     margin-top: 100px;
     text-align: center;
     padding-top: 100px;
 }
+
 .section-4-title-color {
     color: #F00;
 }
+
 .primary-button {
     padding-top: 25px;
     color: #FFF;
@@ -128,4 +131,43 @@ body {
     background: #F00;
 }
 
+/*5th Section*/
 
+.section-5 {
+    background-image: url(./Image/Ellipse\ 1.png);
+    background-repeat: no-repeat;
+    background-position: 40%;
+    display: flex;
+    margin-top: 300px;
+    background-color: #FFF;
+    width: 1600px;
+    height: 500px;
+}
+
+
+.section-5-subtitle1 {
+    color: #F00;
+}
+
+.section-5-paragraph {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    width: 393px;
+}
+
+.section-5-title1 {
+    text-align: left;
+    margin-left: 8px;
+    margin-top: 35px;
+}
+
+.section-5-paragraph1 {
+    width: 276px;
+}
+
+.section-5-title2 {
+    text-align: left;
+    margin-left: 650px;
+    margin-top: 35px;
+}
