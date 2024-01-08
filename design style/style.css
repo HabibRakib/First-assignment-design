@@ -202,6 +202,9 @@ body {
     font-size: 72px;
     font-weight: 900;
 }
+.section-6-images{
+    display: flex;
+}
 
 /*7th Section*/
 .section-7 {
